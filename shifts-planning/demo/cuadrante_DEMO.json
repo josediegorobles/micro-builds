@@ -1,0 +1,11 @@
+{
+  "AHT (s)": 300.0,
+  "Franja (min)": 60.0,
+  "Objetivo de nivel de servicio": 0.8,
+  "Objetivo de respuesta (s)": 20.0,
+  "Shrinkage": 0.28,
+  "Horas planificadas/semana": 3544,
+  "Pico de agentes": 14,
+  "Franjas con déficit": 0,
+  "Contactos/semana": 4674
+}

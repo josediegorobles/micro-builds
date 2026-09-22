@@ -1,0 +1,36 @@
+{
+  "outputs": {
+    "contacts": {
+      "file": "out/migration/xero_contacts_import.csv",
+      "rows": 10
+    },
+    "opening_journals": {
+      "Holdings Pty": {
+        "file": "out/migration/xero_opening_journal_Holdings_Pty.csv",
+        "lines": 4
+      },
+      "Services Pty": {
+        "file": "out/migration/xero_opening_journal_Services_Pty.csv",
+        "lines": 3
+      },
+      "Trading Pty": {
+        "file": "out/migration/xero_opening_journal_Trading_Pty.csv",
+        "lines": 3
+      }
+    }
+  },
+  "validation": {
+    "errors": 1,
+    "warnings": 2,
+    "info": 3,
+    "report": "out/migration/validation_report.csv"
+  },
+  "reconciliation": {
+    "source_total": 446100.0,
+    "migrated_total": 446100.0,
+    "difference": 0.0,
+    "drift": 0.0,
+    "within_tolerance": true,
+    "tolerance": 0.005
+  }
+}

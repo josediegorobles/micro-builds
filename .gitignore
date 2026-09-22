@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python scratch
+__pycache__/
+*.py[cod]
+.venv/
+
+# Never publish sources, proposals or raw captures from here
+propuesta-cliente.md
+propuestas-cliente.md
+*.sqlite
+raw_*.json

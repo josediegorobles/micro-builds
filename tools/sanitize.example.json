@@ -1,0 +1,16 @@
+{
+  "_comment": "Schema of the publication policy consumed by tools/build_showcase.py. The real policy is kept outside this repository, because the blocklist itself names the clients it protects. These values are placeholders.",
+  "blocklist": [
+    "acme corp",
+    "example-client-location",
+    "12345678",
+    "example-platform.com"
+  ],
+  "replacements": [
+    ["1420 Example St, Placeholder City", "1420 Example St, Springfield IL"]
+  ],
+  "files": [
+    { "from": "tool-a/out/report_DEMO.xlsx", "to": "tool-a/demo/report_DEMO.xlsx" },
+    { "from": "tool-a/out/summary.json", "to": "tool-a/demo/summary.json" }
+  ]
+}

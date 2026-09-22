@@ -1,0 +1,7 @@
+severity,scope,row,message
+error,contacts,7,"contacto duplicado ""Meridian Fitouts"" en 2 filas: se enviará una sola"
+warning,contacts,4,"email inválido ""not-an-email"": se deja vacío, no se inventa"
+warning,contacts,,1 contactos sin AccountNumber: Xero los crea igualmente pero pierdes el vínculo con el ERP antiguo
+info,balances,,"sociedad ""Holdings Pty"" cuadra: 277,750.00 en el debe y 277,750.00 en el haber"
+info,balances,,"sociedad ""Services Pty"" cuadra: 52,250.00 en el debe y 52,250.00 en el haber"
+info,balances,,"sociedad ""Trading Pty"" cuadra: 116,100.00 en el debe y 116,100.00 en el haber"

@@ -1,0 +1,29 @@
+{
+  "kpis": {
+    "total_revenue": 610883.28,
+    "outstanding": 262912.96,
+    "invoices": 134,
+    "collected": 436017.38,
+    "not_invoiced": 6300.0,
+    "not_invoiced_count": 4,
+    "unassigned_milestone": 114877.44
+  },
+  "reconciliation": {
+    "revenue": {
+      "dashboard": 610883.28,
+      "source": 610883.28,
+      "drift": 0.0,
+      "within_tolerance": true
+    },
+    "outstanding": {
+      "dashboard": 262912.96,
+      "source": 262912.96,
+      "drift": 0.0,
+      "within_tolerance": true
+    },
+    "tolerance": 0.005
+  },
+  "output": "out/finance_dashboard_DEMO.xlsx",
+  "seconds": 0.03,
+  "rows": 134
+}
