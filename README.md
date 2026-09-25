@@ -71,4 +71,4 @@ this repository was linked from.
 
 ---
 
-Servicio relacionado: https://josedrobles.com/es/automatizacion/
+Part of: Estudio de viabilidad de automatización — test one process on a controlled sample and decide whether to automate, fix first or discard — https://josedrobles.com/es/automatizacion/
