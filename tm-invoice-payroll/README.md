@@ -39,11 +39,11 @@ and reimbursement totals, and daily sheet against billed day. Two structural tes
 | Concept | Amount |
 |---|---|
 | Billed work (Tech 1: 49 h, Tech 2: 27.25 h) | 4,683.75 |
-| Trucks, trip charges and equipment (no surcharge) | 1,005.00 |
+| Trucks, trip charges and equipment (no surcharge) | 960.00 |
 | Expenses + 15 % surcharge (1,180.20 → 177.03) | 1,357.23 |
-| **Subtotal** | **7,045.98** |
-| 5 % discount | −352.30 |
-| **Total to invoice** | **6,693.68** |
+| **Subtotal** | **7,000.98** |
+| 5 % discount | −350.05 |
+| **Total to invoice** | **6,650.93** |
 | Payroll (2 technicians, with reimbursements) | 2,684.05 |
 
 - [`demo/TM_Invoice_Payroll_DEMO.xlsx`](demo/TM_Invoice_Payroll_DEMO.xlsx) — six days, two
